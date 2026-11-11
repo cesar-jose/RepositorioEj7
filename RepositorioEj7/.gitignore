@@ -1,0 +1,15 @@
+# Archivos compilados de Java
+*.class
+bin/
+target/
+
+# Archivos temporales de Eclipse
+.metadata/
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.log
